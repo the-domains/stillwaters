@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stillwaters Restaurant - Bar, Restaurant, Pizza, Fish Fry - Star Lake, WI]]></title>
+        <description><![CDATA[Stillwaters Restaurant - Bar, Restaurant, Pizza, Fish Fry - Star Lake, WI]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 04:28:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined14529b76-ebaa-4348-9a5c-56b5c4c9b2dd/index.html</link>
+            <guid isPermaLink="false">14529b76-ebaa-4348-9a5c-56b5c4c9b2dd</guid>
+            <pubDate>Mon, 25 Apr 2016 04:28:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
