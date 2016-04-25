@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Stillwaters Restaurant
-datePublished: '2016-04-25T04:38:30.549Z'
-dateModified: '2016-04-25T04:38:24.269Z'
+datePublished: '2016-04-25T04:48:56.757Z'
+dateModified: '2016-04-25T04:45:13.750Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-stillwaters-restaurant.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-stillwaters-restaurant.md
-published: true
 url: stillwaters-restaurant/index.html
 _type: Article
 
